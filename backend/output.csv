@@ -1,0 +1,11 @@
+field,mandatory,repeatable,type,inputInfo
+legacyId,false,false,text,
+parentId,false,false,text,
+qubitParentSlug,false,true,text,
+levelOfDescription,true,false,dropdown,item|collection|series|subseries|file|view
+digitalObjectPath,true,true,filepath,/home/docs/public_html/collection/etd2006
+digitalObjectURI,false,true,text,
+title,true,true,text,
+description,false,true,text,
+creator,true,true,date,month
+date,true,false,date,year

@@ -1,0 +1,12 @@
+ARCHMAN FILE EDITING TOOL:
+This application provides administrators with the ability to edit metadata of collections that are part of a Simple DL archive. This is achieved byediting the CSV files comtaining the metadata.
+
+INSTALLATION:
+- Install Simple DL from https://github.com/slumou/simpledl
+- Unzip and add the 'project' folder into the same directory that Simple DL is installed in
+
+USE:
+- Change all the csvFilePath and configFilePath in index.ts to the relevant directories for the file intending to be edited.
+- cd into the frontend directory and run npm install
+- cd into the backend directory and run npm install
+- run 'npm run dev' from the backend directory to launch the application
