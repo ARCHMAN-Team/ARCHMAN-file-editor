@@ -9,4 +9,4 @@ USE:
 - Change all the csvFilePath and configFilePath in index.ts to the relevant directories for the file intending to be edited.
 - cd into the frontend directory and run npm install
 - cd into the backend directory and run npm install
-- run 'npm run dev' from the backend directory to launch the application
+- Run 'npm run dev' from the backend directory to launch the application
